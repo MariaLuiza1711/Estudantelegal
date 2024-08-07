@@ -1,5 +1,3 @@
 Meu nome é Maria Luiza
 
-Estou estudando nas plataformas digitais
-Estou me desenvolvendo na linguagem JavaScript e
-utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Eu gosto de viver cada dia com uma mistura vibrante de atividades que me definem: ler, ouvir música, estudar, dormir e aventurar. Esses elementos não apenas preenchem meu tempo, mas também enriquecem minha vida de maneiras únicas e significativas.
